@@ -14,27 +14,27 @@ document.addEventListener('DOMContentLoaded', function() {
   const testimonials = [
     {
       name: "Atharva",
-      image: "https://randomuser.me/api/portraits/women/42.jpg",
+      image: "",
       text: "My Golden Retriever always looks amazing after his grooming sessions here. The staff is patient and caring, and they truly understand how to handle pets. Highly recommend!",
     },
     {
       name: "Maa",
-      image: "https://randomuser.me/api/portraits/men/32.jpg",
+      image: "",
       text: "My cat is usually very anxious at grooming places, but she seems comfortable here. The groomers take their time and don't rush the process. The results are always fantastic!",
     },
     {
       name: "Anaadya",
-      image: "https://randomuser.me/api/portraits/women/68.jpg",
+      image: "",
       text: "I've been taking my dogs here for years. They use high-quality products and the staff is knowledgeable about different breeds. My pups always come home looking and smelling wonderful!",
     },
     {
       name: "Prathamesh",
-      image: "https://randomuser.me/api/portraits/men/57.jpg",
+      image: "",
       text: "The groomers at Paws & Whiskers are magicians! They handled my anxious rescue dog with such care, and now he actually enjoys his grooming appointments. Thank you!",
     },
     {
       name: "Rahul",
-      image: "https://randomuser.me/api/portraits/women/24.jpg",
+      image: "",
       text: "Exceptional service every time! My Persian cat needs special attention, and they know exactly how to groom her to perfection. Worth every penny!",
     }
   ];
